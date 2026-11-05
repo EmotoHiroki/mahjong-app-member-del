@@ -1,0 +1,10 @@
+t.txt
+
+# Environment files and local deployment artifacts
+.env
+.env.*
+!.env.example
+.vercel/
+node_modules/
+dist/
+.npm-cache/
